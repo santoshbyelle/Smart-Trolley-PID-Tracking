@@ -1,0 +1,8 @@
+{
+  "name": "Smart Trolley PID Control System",
+  "description": "A high-performance IoT dashboard for real-time distance-adaptive control of a smart trolley using PID algorithms and human tracking logic.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
